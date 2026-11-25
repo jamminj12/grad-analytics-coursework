@@ -1,6 +1,6 @@
 # Data
 
-None of the data is committed here. It came from course instructors and textbooks, so it isn't mine to redistribute. To run a script, put the file it reads in this folder.
+All textbook data I used listed below. Update as required.
 
 | File | Used by | Source |
 |---|---|---|
