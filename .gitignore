@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Course and textbook data stays local
+data/*
+!data/README.md
+*.csv
+*.xlsx
+*.xls
+*.rds
+
+# Coursework documents
+*.docx
+*.pptx
+*.pdf
+*.mp4
